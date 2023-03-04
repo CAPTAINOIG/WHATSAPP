@@ -1,0 +1,82 @@
+body {
+    overflow-x: hidden;
+}
+
+.main {
+    position: relative;
+    border: px solid ;
+    height: 32vh;
+    width: 100vw;
+    padding-left: 100px;
+    background-color: rgb(32, 153, 127);
+}
+
+
+.mini {
+    position: absolute;
+    border: px solid white;
+    background-color: white;
+    width: 77vw;
+    left: 140px;
+    height: 90vh;
+    top: 100px;
+    box-shadow: 1px 0px 10px  0px black;
+    /* display: flex;
+    align-items: center; */
+}
+.ama {
+    margin-left: 220px;
+}
+
+.ade {
+    display: flex;
+}
+.one {
+    font-size: 20px;
+}
+
+span {
+    display: flex;
+    padding-top: 30px;
+}
+h3 {
+    color:  white;
+    padding-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight:normal
+}
+h4 {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:100
+}
+.one {
+    padding-left: 100px;
+    top: 20px;
+}
+
+#vee {
+    margin-left: 100px;
+    padding-top: 50px;
+    
+
+}
+#two {
+    background-color: rgb(221, 221, 224);
+    height: 70vh;
+    width: 77vw;
+    margin-top: 60px;
+      
+}
+h5 {
+    padding: 50px 0px 10px 450px;
+    font-size:medium;
+    font-weight: lighter;
+}
+#five {
+     padding: 0px 0px 0px 395px;
+    font-weight: lighter;
+    font-size:medium;
+    color: rgb(58, 156, 139)
+}
